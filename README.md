@@ -11,6 +11,7 @@ Here is the link of the project: https://github.com/RanAnQWQ/COMP2008J
      modify the structure and process of the game, and write the whole report.
 
  A glance of the main pages: 
+ 
  The main menu: ![main menu](https://github.com/user-attachments/assets/7f7459e8-4de1-4f35-a75e-b9eddf935304)
 
  The beginner guidance mode: ![tut1](https://github.com/user-attachments/assets/f548994d-ebc3-4118-a58b-86c690bec562)
